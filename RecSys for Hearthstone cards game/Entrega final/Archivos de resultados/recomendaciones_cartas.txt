@@ -1,0 +1,16 @@
+{
+'559':['Dispatch Kodo', 'Leatherclad Hogleader', 'Aviana', 'Dragon Consort', 'Abyssal Enforcer', 'Eydis Darkbane', 'Shadow Sensei', 'Chromaggus', "Anub'arak", 'Public Defender'],
+'733':['Doppelgangster', 'Doppelgangster', 'Doppelgangster', 'Stormpike Commando', 'Ironforge Rifleman', 'Tiny Knight of Evil', 'Majordomo Executus', 'Kazakus', 'Genzo, the Shark', 'Mirror Image'],
+'2020':['Abyssal Enforcer', 'Public Defender', 'Leatherclad Hogleader', 'Kabal Courier', 'Dragon Consort', 'Kabal Talonpriest', 'Dispatch Kodo', 'Shadow Sensei', 'Confessor Paletress', 'Eydis Darkbane'],
+'2028':['Twilight Guardian', 'Gormok the Impaler', 'Wickerflame Burnbristle', 'Aya Blackpaw', 'Kabal Lackey', 'Volcanic Lumberer', 'Finja, the Flying Star', 'Ram Wrangler', 'Grimestreet Smuggler', "Sneed's Old Shredder"],
+'3015':['Backroom Bouncer', 'Genzo, the Shark', 'Mayor Noggenfogger', 'Goldshire Footman', 'Ironbark Protector', "King's Elekk", 'Jade Chieftain', 'Grimestreet Enforcer', 'Tiny Knight of Evil', 'Majordomo Executus'],
+'3293':['Stormwind Knight', 'Justicar Trueheart', 'Streetwise Investigator', 'Kabal Chemist', 'Volcanic Lumberer', 'Finja, the Flying Star', 'Lowly Squire', 'Stormwind Champion', 'Mounted Raptor', 'Refreshment Vendor'],
+'3404':['The Skeleton Knight', 'Saboteur', 'Krul the Unshackled', 'Mistress of Mixtures', 'Fel Orc Soulfiend', 'Recruiter', 'Gnomish Inventor', 'Injured Kvaldir', 'Shaky Zipgunner', 'Crowd Favorite'],
+'3908':['Kabal Chemist', 'Mounted Raptor', 'Volcanic Lumberer', 'Finja, the Flying Star', 'Druid of the Saber', 'Druid of the Saber', 'Druid of the Saber', 'Stormwind Knight', 'Wolfrider', 'Grimestreet Enforcer'],
+'4055':['Saboteur', 'Recruiter', 'Holy Champion', 'Mistress of Mixtures', 'Kabal Talonpriest', 'Naga Corsair', 'Dragon Consort', 'Krul the Unshackled', 'Ram Wrangler', 'Mirror Image'],
+'4081':['Wilfred Fizzlebang', 'Raza the Chained', 'Inkmaster Solia', 'Flamewaker', 'Spellslinger', 'Lance Carrier', 'Varian Wrynn', 'Jade Swarmer', 'Grimestreet Pawnbroker', 'Silver Hand Regent'],
+'6164':['Sparring Partner', "Mogor's Champion", 'Celestial Dreamer', 'Shaku, the Collector', 'Dread Infernal', 'Lotus Assassin', 'Wind-up Burglebot', 'Crystalweaver', 'Dark Iron Skulker', "Anub'arak"],
+'6710':['Maiden of the Lake', 'Street Trickster', 'Armored Warhorse', 'Grimscale Chum', 'Kabal Trafficker', 'Primalfin Lookout', "Sen'jin Shieldmasta", 'Razorfen Hunter', 'Draenei Totemcarver', 'Friendly Bartender'],
+'6810':['Raza the Chained', 'Grimestreet Pawnbroker', 'Wilfred Fizzlebang', 'Jade Swarmer', 'Inkmaster Solia', 'Lance Carrier', 'Flamewaker', 'Spellslinger', 'Varian Wrynn', "Sneed's Old Shredder"],
+'7578':['Druid of the Saber', 'Druid of the Saber', 'Druid of the Saber', 'Injured Blademaster', 'Grimestreet Enforcer', 'Mayor Noggenfogger', 'Goldshire Footman', 'Ironbark Protector', 'Wyrmrest Agent', 'Tuskarr Totemic'],
+}

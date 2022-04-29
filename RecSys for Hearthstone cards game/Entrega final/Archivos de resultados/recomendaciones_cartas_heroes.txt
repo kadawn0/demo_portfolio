@@ -1,0 +1,16 @@
+{
+'559':['Leatherclad Hogleader', 'Eydis Darkbane', 'Chromaggus', 'Gentle Megasaur', 'Kabal Courier', 'Recruiter', "Light's Champion", 'Sergeant Sally', 'Fjola Lightbane', "Mogor's Champion"],
+'733':['Doppelgangster', 'Doppelgangster', 'Doppelgangster', 'Stormpike Commando', 'Ironforge Rifleman', 'Majordomo Executus', 'Kazakus', 'Genzo, the Shark', 'Mirror Image', 'Backroom Bouncer'],
+'2020':['Leatherclad Hogleader', 'Kabal Courier', 'Eydis Darkbane', 'Gentle Megasaur', "Light's Champion", 'Recruiter', 'Sergeant Sally', 'Fjola Lightbane', 'Chromaggus', 'Mirror Image'],
+'2028':['Twilight Guardian', 'Gormok the Impaler', 'Aya Blackpaw', 'Kabal Lackey', 'Finja, the Flying Star', 'Grimestreet Smuggler', "Sneed's Old Shredder", 'Mistress of Mixtures', 'Booty Bay Bodyguard', 'Stormwind Knight'],
+'3015':['Backroom Bouncer', 'Genzo, the Shark', 'Mayor Noggenfogger', 'Goldshire Footman', 'Majordomo Executus', 'Kazakus', 'Ironforge Rifleman', 'Injured Blademaster', 'Aya Blackpaw', 'Stormpike Commando'],
+'3293':['Stormwind Knight', 'Justicar Trueheart', 'Streetwise Investigator', 'Kabal Chemist', 'Finja, the Flying Star', 'Lowly Squire', 'Stormwind Champion', 'Refreshment Vendor', 'Frostwolf Warlord', 'Venture Co. Mercenary'],
+'3404':['The Skeleton Knight', 'Saboteur', 'Mistress of Mixtures', 'Fel Orc Soulfiend', 'Recruiter', 'Gnomish Inventor', 'Injured Kvaldir', 'Crowd Favorite', 'Naga Corsair', 'Fencing Coach'],
+'3908':['Kabal Chemist', 'Finja, the Flying Star', 'Stormwind Knight', 'Wolfrider', 'Aya Blackpaw', 'Mayor Noggenfogger', 'Goldshire Footman', 'Streetwise Investigator', 'Refreshment Vendor', 'Frostwolf Warlord'],
+'4055':['Saboteur', 'Recruiter', 'Mistress of Mixtures', 'Naga Corsair', 'Mirror Image', 'Kabal Lackey', 'Sergeant Sally', "Light's Champion", 'Stormpike Commando', 'Majordomo Executus'],
+'4081':['Inkmaster Solia', 'Flamewaker', 'Spellslinger', 'Lance Carrier', 'Silver Hand Regent', 'Master of Ceremonies', 'Gadgetzan Jouster', 'Piloted Shredder', 'Stonetusk Boar', 'Friendly Bartender'],
+'6164':["Mogor's Champion", 'Wind-up Burglebot', 'Wrathion', 'Silver Hand Knight', 'Jade Spirit', 'Red Mana Wyrm', 'Second-Rate Bruiser', 'Master Jouster', 'Dirty Rat', 'Argent Watchman'],
+'6710':['Maiden of the Lake', 'Street Trickster', 'Armored Warhorse', 'Primalfin Lookout', "Sen'jin Shieldmasta", 'Razorfen Hunter', 'Friendly Bartender', 'Earthen Ring Farseer', 'Gadgetzan Jouster', 'Silver Hand Regent'],
+'6810':['Inkmaster Solia', 'Lance Carrier', 'Flamewaker', 'Spellslinger', "Sneed's Old Shredder", 'Silver Hand Regent', 'Gadgetzan Jouster', 'Master of Ceremonies', 'Piloted Shredder', 'Stonetusk Boar'],
+'7578':['Injured Blademaster', 'Mayor Noggenfogger', 'Goldshire Footman', 'Tanaris Hogchopper', 'Wolfrider', 'Backroom Bouncer', 'Bolf Ramshield', 'Aya Blackpaw', 'Genzo, the Shark', 'Fight Promoter'],
+}

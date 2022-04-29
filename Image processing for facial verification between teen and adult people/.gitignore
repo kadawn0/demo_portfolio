@@ -1,0 +1,10 @@
+# Ignore tha database
+/i1213s1720
+
+# Ignore Visual Studio Configuration
+/.vscode
+
+#Ignore pycache
+__pycache__
+*.xml
+*.iml
